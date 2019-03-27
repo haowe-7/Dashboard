@@ -1,9 +1,9 @@
 # 盈小钱项目文档
 
 - 1、 [About](docs/about.md) (项目概况) 
-- 2、 [Team Profile](docs/team_profile.md) (团队组建与分工) 
+- 2、 [Team Profile](docs/team-profile.md) (团队组建与分工) 
 - 3、 [Investigation](docs/investigation.md)（项目前期调研/竞品分析）
-- 4、 [Vision](docs/vision)（项目愿景）
+- 4、 [Vision](docs/vision.md)（项目愿景）
 - 5、 [Product Backlog](docs/product_backlog.md) （产品特性库）
 - 6、 Requirement specification（需求规格说明书）
   - 6.1 Usecase Diagram（用例图）
