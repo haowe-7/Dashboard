@@ -6,9 +6,9 @@
 - 4、 [Vision](docs/vision.md)（项目愿景）
 - 5、 [Product Backlog](docs/product_backlog.md) （产品特性库）
 - 6、 Requirement specification（需求规格说明书）
-  - 6.1 Usecase Diagram（用例图）
-  - 6.2 Use Cases（用例+活动图）
-  - 6.3 Domian Models（领域模型）
+  - 6.1 [Usecase Diagram](./require_spec/img/用例图.png)（用例图）
+  - 6.2 [Use Cases](./require_spec/img/用例_活动图.png)（用例+活动图）
+  - 6.3 [Domain Models](./require_spec/img/领域模型.png)（领域模型）
   - 6.4 State Models（状态模型）
   - 6.5 System Sequence Diagrams（功能模型）
   - 6.6 Supplementary Requirements（补充需求）
