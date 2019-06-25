@@ -9,9 +9,9 @@
   - 6.1 [Usecase Diagram](./require_spec/UsecaseDiagram.md)（用例图）
   - 6.2 [Use Cases](./require_spec/UseCases.md)（用例+活动图）
   - 6.3 [Domain Models](./require_spec/DomainModels.md)（领域模型）
-  - 6.4 [State Models](https://github.com/haowe-7/Dashboard/blob/master/require_spec/State Model.md)（状态模型）
-  - 6.5 [System Sequence Diagrams](https://github.com/haowe-7/Dashboard/blob/master/require_spec/System Sequence Diagrams.md)（功能模型）
-  - 6.6 [Supplementary Requirements](https://github.com/haowe-7/Dashboard/blob/master/require_spec/Supplementary Requirements.md)（补充需求）
+  - 6.4 [State Models](./require_spec/State Model.md)（状态模型）
+  - 6.5 [System Sequence Diagrams](./require_spec/System Sequence Diagrams.md)（功能模型）
+  - 6.6 [Supplementary Requirements](./require_spec/Supplementary Requirements.md)（补充需求）
 - 7、 Design（设计说明书）
   - 7.1 UI design（界面设计）
   - 7.2 Database design（数据库设计）
