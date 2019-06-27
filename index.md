@@ -35,4 +35,4 @@
   - 学号-title
 - X5 Final Report
   - 学号-title
-  - 小组分工与贡献率说明
+  - [小组分工与贡献率说明](./require_spec/groupContribution.md)
