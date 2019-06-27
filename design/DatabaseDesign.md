@@ -60,20 +60,22 @@
 |   email    | varchar(30) |      |  电子邮箱   |
 |   phone    | varchar(20) |      |    电话     |
 |   avator   |   binary    |      |    头像     |
+|  balance   |     int     |      |    余额     |
 
 - **Task**
 
-|      Field      |    Type     | Key  |  Description   |
-| :-------------: | :---------: | :--: | :------------: |
-|     task_id     |     int     | PRI  |     任务id     |
-|   creator_id    |     int     |      |    创建者id    |
-|      title      | varchar(20) |      |      标题      |
-|    task_type    |     int     |      |    任务类型    |
-|     reward      |     int     |      |    任务报酬    |
-|   description   |    text     |      |    任务描述    |
-|    due_time     |  datetime   |      |    截止时间    |
-| max_participate |     int     |      | 最大参与者数量 |
-|      image      |   binary    |      |    任务图片    |
+|      Field      |    Type     | Key  |    Description     |
+| :-------------: | :---------: | :--: | :----------------: |
+|     task_id     |     int     | PRI  |       任务id       |
+|   creator_id    |     int     |      |      创建者id      |
+|      title      | varchar(20) |      |        标题        |
+|    task_type    |     int     |      |      任务类型      |
+|     reward      |     int     |      |      任务报酬      |
+|   description   |    text     |      |      任务描述      |
+|    due_time     |  datetime   |      |      截止时间      |
+| max_participate |     int     |      |   最大参与者数量   |
+|      extra      |    text     |      | 任务内容，json格式 |
+|      image      |   binary    |      |      任务图片      |
 
 - **Comment**
 
@@ -108,3 +110,12 @@
 | message_id |     int      | PRI  |   消息id    |
 |  user_id   |     int      |      |   用户id    |
 |  content   | varchar(100) |      |  消息内容   |
+
+- **Submission**
+
+|     Field     | Type | Key  |    Description     |
+| :-----------: | :--: | :--: | :----------------: |
+| submission_id | int  | PRI  |       消息id       |
+|    user_id    | int  |      |       用户id       |
+|    task_id    | int  |      |       任务id       |
+|    answer     | text |      | 问卷答案，json格式 |
