@@ -2,6 +2,10 @@
 
 根据我们的[用例分析](https://github.com/haowe-7/Dashboard/blob/master/require_spec/UseCases.md)
 
+| 版本 | 日期       | 描述  | 作者    |
+| ---- | ---------- | ----- | ------- |
+| V1.0 | 2019-06-27 | SSD图 | cxk1998 |
+
 ## 基本功能
 
 1. 浏览任务列表
