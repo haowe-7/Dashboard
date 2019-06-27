@@ -26,6 +26,7 @@
 - 9、 成品展示
   - 9.1 XX短视频
   - 9.2 XX短视频
+- 10、 [用户手册](./require_spec/用户手册.md)
 - X1 meeting-records
   - [inception meeting(2019/3/10)](docs/InceptionMeeting.md)
 - X2 [KANBAN](<https://github.com/orgs/haowe-7/projects>)
