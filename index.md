@@ -15,12 +15,12 @@
 - 7、 Design（设计说明书）
   - 7.1 [UI design](./require_spec/UIDesign.md)（界面设计）
   - 7.2 [Database design（数据库设计）](./design/DatabaseDesign.md)
-  - 7.3 Interface API design（接口 API 设计）
+  - 7.3 [Interface API design（接口 API 设计）](<https://www.showdoc.cc/fatwalletapi?page_id=2225152623522809>)(密码: 536536536)
   - 7.4 Architecture design（架构设计）
   - 7.5 [Usecase design](./require_spec/用例设计.md)（用例设计）
 - 8、 生产规范与指南
-  - 8.1 XX 代码规范
-  - 8.2 REST API 设计规范
+  - 8.1 [python PEP8 代码规范](<https://legacy.python.org/dev/peps/pep-0008/>)
+  - 8.2 [REST API 设计规范](<http://www.ruanyifeng.com/blog/2014/05/restful_api.html>)
   - 8.3 [架构设计、详细设计（BCE方法）到应用程序框架映射指南](./product_spec/DesignToFramework.md)
   - 8.4 部署说明
 - 9、 成品展示
@@ -28,7 +28,7 @@
   - 9.2 XX短视频
 - X1 meeting-records
   - [inception meeting(2019/3/10)](docs/InceptionMeeting.md)
-- X2 KANBAN
+- X2 [KANBAN](<https://github.com/orgs/haowe-7/projects>)
 - X3 auditing-records 
 - X4 Tech/Work Report
   - 学号-title
