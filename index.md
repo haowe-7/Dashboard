@@ -31,8 +31,7 @@
   - [inception meeting(2019/3/10)](docs/InceptionMeeting.md)
 - X2 [KANBAN](<https://github.com/orgs/haowe-7/projects>)
 - X3 [auditing-records](docs/audit_record.md)
-- X4 Tech/Work Report
-  - 学号-title
+- X4 [Tech/Work Report](docs/tech_report.md)
 - X5 Final Report
   - 学号-title
   - [小组分工与贡献率说明](./require_spec/groupContribution.md)
