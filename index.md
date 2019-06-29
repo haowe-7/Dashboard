@@ -30,7 +30,7 @@
 - X1 meeting-records
   - [inception meeting(2019/3/10)](docs/InceptionMeeting.md)
 - X2 [KANBAN](<https://github.com/orgs/haowe-7/projects>)
-- X3 auditing-records 
+- X3 [auditing-records](docs/audit_record.md)
 - X4 Tech/Work Report
   - 学号-title
 - X5 Final Report
