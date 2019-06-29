@@ -16,22 +16,23 @@
   - 7.1 [UI design](./require_spec/UIDesign.md)（界面设计）
   - 7.2 [Database design（数据库设计）](./design/DatabaseDesign.md)
   - 7.3 [Interface API design（接口 API 设计）](<https://www.showdoc.cc/fatwalletapi?page_id=2225152623522809>)(密码: 536536536)
-  - 7.4 Architecture design（架构设计）
+  - 7.4 [Architecture design（架构设计）](design/软件设计文档.md)
   - 7.5 [Usecase design](./require_spec/用例设计.md)（用例设计）
 - 8、 生产规范与指南
   - 8.1 [python PEP8 代码规范](<https://legacy.python.org/dev/peps/pep-0008/>)
   - 8.2 [REST API 设计规范](<http://www.ruanyifeng.com/blog/2014/05/restful_api.html>)
   - 8.3 [架构设计、详细设计（BCE方法）到应用程序框架映射指南](./product_spec/DesignToFramework.md)
-  - 8.4 部署说明
+  - 8.4 [部署说明](design/部署文档.md)
 - 9、 成品展示
   - 9.1 XX短视频
   - 9.2 XX短视频
+- 10、 [用户手册](./require_spec/用户手册.md)
 - X1 meeting-records
   - [inception meeting(2019/3/10)](docs/InceptionMeeting.md)
 - X2 [KANBAN](<https://github.com/orgs/haowe-7/projects>)
-- X3 auditing-records 
-- X4 Tech/Work Report
-  - 学号-title
+- X3 [auditing-records](docs/audit_record.md)
+- X4 [Tech/Work Report](docs/tech_report.md)
 - X5 Final Report
-  - 学号-title
-  - 小组分工与贡献率说明
+  - [16340017 chenf99](reports/16340017.md)
+  - [16340031 chent86](reports/16340031.md)
+  - [小组分工与贡献率说明](./require_spec/groupContribution.md)
