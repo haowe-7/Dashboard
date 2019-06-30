@@ -24,8 +24,7 @@
   - 8.3 [架构设计、详细设计（BCE方法）到应用程序框架映射指南](./product_spec/DesignToFramework.md)
   - 8.4 [部署说明](design/部署文档.md)
 - 9、 成品展示
-  - 9.1 XX短视频
-  - 9.2 XX短视频
+  - 9.1 [演示视频](./require_spec/演示视频.mp4)
 - 10、 [用户手册](./require_spec/用户手册.md)
 - X1 meeting-records
   - [inception meeting(2019/3/10)](docs/InceptionMeeting.md)
