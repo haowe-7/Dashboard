@@ -39,4 +39,6 @@
   - [16340031 chent86](reports/16340031.md)
   - [16340030 chensm9](reports/16340030.md)
   - [16340026 chenpy26](reports/16340026.md)
+  - [16340015 chenbb6](reports/16340015.md)
   - [小组分工与贡献率说明](./require_spec/groupContribution.md)
+
