@@ -12,7 +12,7 @@
 | 16340031 |  chent86  | 需求审计 | <https://github.com/TimeForCoin/Dashboard/issues/7> |
 | 16340026 |  chenpy26 | 需求审计 | <https://github.com/TimeForCoin/Dashboard/issues/8> |
 | 16340030 |  chensim9 | 需求审计 | <https://github.com/TimeForCoin/Dashboard/issues/9> |
-|          |           |         |                                                     |
+| 16340015 | chenbb6 | 需求审计 | <https://github.com/TimeForCoin/Dashboard/issues/10> |
 
 
 
@@ -28,5 +28,5 @@
 | 16340031 |  chent86  | 设计审计 | <https://github.com/TimeForCoin/Client/issues/45> |
 | 16340026 |  chenpy26 | 设计审计 | <https://github.com/TimeForCoin/Client/issues/46> |
 | 16340030 |  chensim9 | 设计审计 | <https://github.com/TimeForCoin/Client/issues/47> |
-|          |           |         |                                                   |
+| 16340015 | chenbb6 | 设计审计 | <https://github.com/sysu-team/sysu-team.github.io/issues/6> |
 
